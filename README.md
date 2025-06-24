@@ -15,18 +15,18 @@ A modern and responsive HTML & CSS template.
 ## 📂 Project Structure
 
 html_and_css_template1/
-│
 ├── css/
-│ ├── styles.css
-│ ├── normalize.css
-│ └── all.min.css
+│   ├── styles.css
+│   ├── normalize.css
+│   └── all.min.css
 ├── images/
-│ ├── about.jpg
-│ ├── big space.jpg
-│ ├── burger.jpg
-│ ├── clothes shop.jpg
-│ ├── landing.jpg
-│ ├── logo.png
-│ └── service.jpg
+│   ├── about.jpg
+│   ├── big space.jpg
+│   ├── burger.jpg
+│   ├── clothes shop.jpg
+│   ├── landing.jpg
+│   ├── logo.png
+│   └── service.jpg
 ├── index.html
 └── README.md
+
