@@ -13,7 +13,7 @@ This is a responsive one-page website implementation based on the **Leon** PSD t
 - **License**: [Graphberry Free License](https://www.graphberry.com/licenses) (Free for personal and commercial use with attribution)
 
 ## Technologies Used
-- HTML5 (Semantic markup)
+- HTML5
 - CSS3 (Flexbox, Grid, custom properties)
 - Responsive Design (Mobile-first approach)
 - Font Awesome Icons
